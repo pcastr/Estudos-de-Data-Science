@@ -35,4 +35,4 @@
 
 * <a href="https://github.com/pcastr/Estudos-de-Data-Science/tree/main/R/Mini-Projeto3">Mini-Projeto 3 - Explicabilidade de Modelos AutoML com SHAP (SHapley Additive exPlanations)</a>
 
-* <a href="https://github.com/pcastr/Estudos-de-Data-Science/tree/main/R/EstudoDirigido">Introdução à Análise Estatística de Dados - Parte 2</a>
+* <a href="https://github.com/pcastr/Estudos-de-Data-Science/tree/main/R/EstudoDirigido">Estudo Dirigido</a>
